@@ -65,13 +65,11 @@ exports.menuMessage = () => {
 ▢ • ${PREFIX}gpt-4
 ▢ • ${PREFIX}ia-sticker
 ▢ • ${PREFIX}pixart
-▢ • ${PREFIX}stablle-diffusion-turbo
 ▢
 ╰━━─「🚀」─━━
 
 ╭━━⪩ CANVAS ⪨━━
 ▢
-▢ • ${PREFIX}bolsonaro
 ▢ • ${PREFIX}cadeia
 ▢ • ${PREFIX}inverter
 ▢ • ${PREFIX}rip
