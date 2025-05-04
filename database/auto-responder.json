@@ -1,14 +1,406 @@
 [
-    {
-        "match": "Oi",
-        "answer": "Olá, tudo bem?"
-    },
-    {
-        "match": "Tudo bem",
-        "answer": "Estou bem, obrigado por perguntar"
-    },
-    {
-        "match": "Qual seu nome",
-        "answer": "Meu nome é Takeshi Bot"
-    }
+  {
+    "match": "Emerson horas pf",
+    "answer": "Olha o horário dessa mensagem!"
+  },{
+    "match": "Oi",
+    "answer": "Olá! Como posso te ajudar hoje?"
+  },
+  {
+    "match": "Olá",
+    "answer": "Oi! Em que posso ser útil?"
+  },
+  {
+    "match": "E aí?",
+    "answer": "E aí! Tudo certo por aí?"
+  },
+  {
+    "match": "Saudações",
+    "answer": "Saudações! No que posso auxiliar?"
+  },
+  {
+    "match": "Bom dia",
+    "answer": "Bom dia! Que seu dia seja ótimo!"
+  },
+  {
+    "match": "Bom dia!",
+    "answer": "Um excelente dia para você também!"
+  },
+  {
+    "match": "Tenha um bom dia",
+    "answer": "Obrigado! Igualmente!"
+  },
+  {
+    "match": "Boa tarde",
+    "answer": "Boa tarde! Algum plano especial para hoje?"
+  },
+  {
+    "match": "Boa tarde!",
+    "answer": "Uma ótima tarde para você!"
+  },
+  {
+    "match": "Que sua tarde seja boa",
+    "answer": "Agradeço! Espero que a sua também!"
+  },
+  {
+    "match": "Boa noite",
+    "answer": "Boa noite! Que você tenha um descanso tranquilo."
+  },
+  {
+    "match": "Boa noite!",
+    "answer": "Tenha uma noite maravilhosa!"
+  },
+  {
+    "match": "Durma bem",
+    "answer": "Obrigado! Você também!"
+  },
+  {
+    "match": "Tudo bem?",
+    "answer": "Tudo ótimo por aqui! E com você?"
+  },
+  {
+    "match": "Tudo bem",
+    "answer": "Que bom ouvir isso! Em que posso ajudar?"
+  },
+  {
+    "match": "Como você está?",
+    "answer": "Estou funcionando perfeitamente! Obrigado por perguntar."
+  },
+  {
+    "match": "Qual seu nome?",
+    "answer": "Meu nome é Emerson, seu assistente virtual."
+  },
+  {
+    "match": "Quem é você?",
+    "answer": "Sou um bot criado para te ajudar da melhor forma possível."
+  },
+  {
+    "match": "O que você faz?",
+    "answer": "Posso responder perguntas, dar informações e realizar algumas tarefas."
+  },
+  {
+    "match": "Obrigado",
+    "answer": "De nada! Sempre que precisar, estou aqui."
+  },
+  {
+    "match": "Valeu",
+    "answer": "Por nada! Foi um prazer ajudar."
+  },
+  {
+    "match": "Até logo",
+    "answer": "Até a próxima! Se cuida."
+  },
+  {
+    "match": "Tchau",
+    "answer": "Tchau! Tenha um ótimo dia/noite."
+  },
+  {
+    "match": "Como vai?",
+    "answer": "Vou bem, obrigado por perguntar! E você?"
+  },
+  {
+    "match": "Preciso de ajuda",
+    "answer": "Claro, em que posso te ajudar especificamente?"
+  },
+  {
+    "match": "Me ajuda?",
+    "answer": "Com certeza! Diga o que você precisa."
+  },
+  {
+    "match": "Conte uma piada",
+    "answer": "Por que o tomate estava vermelho? Porque viu o ketchup!"
+  },
+  {
+    "match": "!ping ",
+    "answer": "pong"
+  },
+  {
+    "match": " !ping",
+    "answer": "pong"
+  },
+  {
+    "match": "! p i n g",
+    "answer": "pong"
+  },
+  {
+    "match": "!pi ng",
+    "answer": "pong"
+  },
+  {
+    "match": "!pin g",
+    "answer": "pong"
+  },
+  {
+    "match": "!pingg",
+    "answer": "pong"
+  },
+  {
+    "match": "!pimg",
+    "answer": "pong"
+  },
+  {
+    "match": "!pong",
+    "answer": "Você quis dizer !ping? De qualquer forma, pong!"
+  },
+  {
+    "match": "ping",
+    "answer": "pong"
+  },
+  {
+    "match": " ping",
+    "answer": "pong"
+  },
+  {
+    "match": "p i n g",
+    "answer": "pong"
+  },
+  {
+    "match": "pi ng",
+    "answer": "pong"
+  },
+  {
+    "match": "pin g",
+    "answer": "pong"
+  },
+  {
+    "match": "pingg",
+    "answer": "pong"
+  },
+  {
+    "match": "pimg",
+    "answer": "pong"
+  },
+  {
+    "match": "!pnig",
+    "answer": "pong"
+  },
+  {
+    "match": "!pgin",
+    "answer": "pong"
+  },
+  {
+    "match": "!igin",
+    "answer": "pong"
+  },
+  {
+    "match": "!pni g",
+    "answer": "pong"
+  },
+  {
+    "match": "!pi ng ",
+    "answer": "pong"
+  },
+  {
+    "match": " !p i n g ",
+    "answer": "pong"
+  },
+  {
+    "match": "!piing",
+    "answer": "pong"
+  },
+  {
+    "match": "!pnng",
+    "answer": "pong"
+  },
+  {
+    "match": "!piiing",
+    "answer": "pong"
+  },
+  {
+    "match": "!pinnng",
+    "answer": "pong"
+  },
+  {
+    "match": "!pi ng",
+    "answer": "pong"
+  },
+  {
+    "match": "!pin g",
+    "answer": "pong"
+  },
+  {
+    "match": "!p ing",
+    "answer": "pong"
+  },
+  {
+    "match": "!p i ng",
+    "answer": "pong"
+  },
+  {
+    "match": "!pi n g",
+    "answer": "pong"
+  },
+  {
+    "match": "!p i n g",
+    "answer": "pong"
+  },
+  {
+    "match": "！ping",
+    "answer": "pong (digitou o '!' errado, mas entendi!)"
+  },
+  {
+    "match": "!p1ng",
+    "answer": "pong (acho que houve um erro de digitação, mas aqui está: pong)"
+  },
+  {
+    "match": "!pi2ng",
+    "answer": "pong (detectei um pequeno erro, mas a resposta é pong!)"
+  },
+  {
+    "match": "!pin9",
+    "answer": "pong (houve um probleminha na digitação, mas aqui está o pong!)"
+  },
+  {
+    "match": "!ping1",
+    "answer": "pong (notei um número no final, mas a resposta é pong!)"
+  },
+  {
+    "match": "ping!",
+    "answer": "pong (você adicionou uma exclamação, mas a resposta é pong!)"
+  },
+  {
+    "match": "?ping",
+    "answer": "pong (vejo um ponto de interrogação, mas a resposta é pong!)"
+  },
+  {
+    "match": "!ping?",
+    "answer": "pong (tanto no começo quanto no final? Sem problemas, pong!)"
+  },
+  {
+    "match": "ping.",
+    "answer": "pong (tem um ponto final aí, mas a resposta é pong!)"
+  },
+  {
+    "match": ".ping",
+    "answer": "pong (um ponto no começo? Mesmo assim, pong!)"
+  },
+{
+    "match": "!ping ganhei",
+    "answer": "pong (ganhou o quê? 😉 Mas aqui está o pong!)"
+  },
+  {
+    "match": "!ping tudo bem?",
+    "answer": "pong (eu estou bem, obrigado por perguntar! E aqui está o pong!)"
+  },
+  {
+    "match": "!ping como vai você",
+    "answer": "pong (vou bem, e obrigado por perguntar! Ah, e pong!)"
+  },
+  {
+    "match": "!ping teste",
+    "answer": "pong (teste recebido e respondido com um... pong!)"
+  },
+  {
+    "match": "!ping oi",
+    "answer": "pong (olá para você também! E aqui vai um pong!)"
+  },
+  {
+    "match": "!ping 123",
+    "answer": "pong (números também? Ok, pong!)"
+  },
+  {
+    "match": "!ping abc",
+    "answer": "pong (letras aleatórias? Sem problemas, pong!)"
+  },
+  {
+    "match": "!ping valeu",
+    "answer": "pong (de nada! E aqui está o seu pong!)"
+  },
+  {
+    "match": "!ping obrigado",
+    "answer": "pong (por nada! E um pong para você!)"
+  },
+  {
+    "match": "!ping haha",
+    "answer": "pong (que engraçado! E aqui está o pong!)"
+  },
+  {
+    "match": "!ping lol",
+    "answer": "pong (rsrs... pong!)"
+  },
+  {
+    "match": "!ping ajuda",
+    "answer": "pong (precisa de ajuda com o pong? 😉)"
+  },
+  {
+    "match": "!ping socorro",
+    "answer": "pong (tudo bem por aí? De qualquer forma, pong!)"
+  },
+  {
+    "match": "!ping sim",
+    "answer": "pong (sim para o pong!)"
+  },
+  {
+    "match": "!ping não",
+    "answer": "pong (entendi... pong!)"
+  },
+  {
+    "match": "!ping talvez",
+    "answer": "pong (talvez um pong seja a resposta? 😉)"
+  },
+  {
+    "match": "!ping agora",
+    "answer": "pong (pong imediato!)"
+  },
+  {
+    "match": "!ping depois",
+    "answer": "pong (mas aqui está o pong agora! 😉)"
+  },
+  {
+    "match": "!ping sempre",
+    "answer": "pong (sempre haverá um pong! 😊)"
+  },
+  {
+    "match": "!ping nunca",
+    "answer": "pong (nunca diga nunca... pong!)"
+  },
+  {
+    "match": "!ping segredo",
+    "answer": "pong (shhh... pong!)"
+  },
+  {
+    "match": "!ping mistério",
+    "answer": "pong (o mistério do pong! 👻)"
+  },
+  {
+    "match": "!ping alegria",
+    "answer": "pong (alegria e... pong!)"
+  },
+  {
+    "match": "!ping tristeza",
+    "answer": "pong (espero que um pong te anime! 😊)"
+  },
+  {
+    "match": "!ping mundo",
+    "answer": "pong (olá, mundo! E pong para você!)"
+  },
+  {
+    "match": "!ping bot",
+    "answer": "pong (sou eu! E pong!)"
+  },
+  {
+    "match": "!ping você",
+    "answer": "pong (eu digo pong! 😉)"
+  },
+  {
+    "match": "!ping eu",
+    "answer": "pong (você disse ping e eu digo pong! 😊)"
+  },
+  {
+    "match": "!ping ponto",
+    "answer": "pong (um ponto e um pong!)"
+  },
+  {
+    "match": "!ping final",
+    "answer": "pong (o final... do ping! Aqui está o pong!)"
+  },{
+    "match": "!melhortimebr",
+    "answer": "São Paulo "
+  },{
+    "match": "!melhortimeeu",
+    "answer": "Real madri"
+  },{
+    "match": "Emerson São Paulo ou Flamengo?",
+    "answer": "São Paulo sempre!"
+  },
 ]
