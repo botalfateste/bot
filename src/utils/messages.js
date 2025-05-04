@@ -19,62 +19,14 @@ exports.menuMessage = () => {
 ▢
 ╰━━─「🪐」─━━
 
-╭━━⪩ DONO ⪨━━
+╭━━⪩ Menus ⪨━━
 ▢
-▢ • ${PREFIX}off
-▢ • ${PREFIX}on
+▢ • ${PREFIX}menudono
+▢ • ${PREFIX}menuadm
+▢ • ${PREFIX}menuprincipal
+▢ • ${PREFIX}menujogo
 ▢
 ╰━━─「🌌」─━━
 
-╭━━⪩ ADMINS ⪨━━
-▢
-▢ • ${PREFIX}anti-link (1/0)
-▢ • ${PREFIX}auto-responder (1/0)
-▢ • ${PREFIX}ban
-▢ • ${PREFIX}exit (1/0)
-▢ • ${PREFIX}hidetag
-▢ • ${PREFIX}welcome (1/0)
-▢
-╰━━─「⭐」─━━
-
-╭━━⪩ PRINCIPAL ⪨━━
-▢
-▢ • ${PREFIX}attp
-▢ • ${PREFIX}cep
-▢ • ${PREFIX}google-search
-▢ • ${PREFIX}ping
-▢ • ${PREFIX}sticker
-▢ • ${PREFIX}to-image
-▢ • ${PREFIX}ttp
-▢ • ${PREFIX}yt-search
-▢
-╰━━─「🚀」─━━
-
-╭━━⪩ DOWNLOADS ⪨━━
-▢
-▢ • ${PREFIX}play-audio
-▢ • ${PREFIX}play-video
-▢ • ${PREFIX}tik-tok
-▢ • ${PREFIX}yt-mp3
-▢ • ${PREFIX}yt-mp4
-▢
-╰━━─「🎶」─━━
-
-╭━━⪩ IA ⪨━━
-▢
-▢ • ${PREFIX}gpt-4
-▢ • ${PREFIX}ia-sticker
-▢ • ${PREFIX}pixart
-▢ • ${PREFIX}stable-diffusion-turbo
-▢
-╰━━─「🚀」─━━
-
-╭━━⪩ CANVAS ⪨━━
-▢
-▢ • ${PREFIX}bolsonaro
-▢ • ${PREFIX}cadeia
-▢ • ${PREFIX}inverter
-▢ • ${PREFIX}rip
-▢
-╰━━─「❇」─━━`;
+`;
 };
