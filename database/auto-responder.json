@@ -1,5 +1,8 @@
 [
   {
+    "match": "O ana",
+    "answer": "O ana"
+  },{
     "match": "Emerson horas pf",
     "answer": "Olha o horário dessa mensagem!"
   },{
